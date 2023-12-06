@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Electron与ADB"
+title:  "在Electron中使用Tesseract.js"
 date:   2023-12-06 22:40:00 +0800
 categories: jekyll update
 ---
