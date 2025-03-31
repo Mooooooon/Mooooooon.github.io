@@ -27,6 +27,9 @@ categories: jekyll update
 
 ## 角色卡
 
+* **在特殊的空间里与任何人互动**
+    * *链接：* [https://discord.com/channels/1291925535324110879/1355847019066818673](https://discord.com/channels/1291925535324110879/1355847019066818673)
+
 * **学习芭蕾的妹妹**
     * *链接：* [https://discord.com/channels/1291925535324110879/1347474054436749322](https://discord.com/channels/1291925535324110879/1347474054436749322)
 
